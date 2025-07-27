@@ -3,7 +3,7 @@
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-v10.4.3-green)
 ![STM32](https://img.shields.io/badge/STM32F4-HSI_84MHz-blue)
 
-<img src="https://github.com/user-attachments/assets/fc4dc86e-1b26-42c3-af91-a1fabc61b27a" alt="DEC36A30-19E8-494C-B521-14DC6DD952CE_4_5005_c">
+<img src="https://github.com/user-attachments/assets/fc4dc86e-1b26-42c3-af91-a1fabc61b27a" width="700" alt="DEC36A30-19E8-494C-B521-14DC6DD952CE_4_5005_c">
 
 
 ## Features
